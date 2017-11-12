@@ -16,6 +16,10 @@ BoardMember.prototype.doCharity = function () {
   return "I like to help people."
 }
 
+BoardMemer.prototype.releasePressStatement = function () {
+  return "You will see great things from Scuber."
+}
+
 //
 //   this.veto = function(){
 //     return 'No, I must disagree'
